@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/com.springsource.org.mortbay.jetty.server-6.1.9.jar"/>
+	<classpathentry kind="lib" path="D:/google-http-client-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="D:/google-http-client-jackson2-1.13.1-beta-sources.jar"/>
+	<classpathentry kind="lib" path="D:/google-oauth-client-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="D:/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-1.4.1-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-auth-1.2.2-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-auth-oauth2-1.2.3-alpha (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-googleapis-extensions-1.4.1-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-http-1.2.3-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-json-1.2.3-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-client-util-1.2.3-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-api-services-youtube-v3-rev107-1.18.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-http-client-jackson-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-http-client-jackson2-1.17.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-oauth-client-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-oauth-client-java6-1.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/google-oauth-client-jetty-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/guava-r05.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/jackson-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/jetty-7.0.0.pre5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/jetty-util-6.1.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/jetty-util-7.0.0.pre5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
